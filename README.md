@@ -6,9 +6,9 @@ cnpm install
 ```
 ## Project Run
 ```
-webpack  或  npm start
+webpack  or  npm start
 ```
-## Project loader
+## Project loader and plugin
 ```
 @babel/core": "^7.4.5",
 "babel-core": "^6.26.3",
@@ -29,4 +29,9 @@ webpack  或  npm start
 "url-loader": "^1.1.2",
 "webpack": "^4.31.0",
 "webpack-cli": "^3.3.2"
+```
+## Project Description
+```
+  [webpack-mk-bundle](https://github.com/xuyancheng/webpack-mk-bundle).  webpack-mk-loader  
+  资源库以实例的形式对webpack功能模块化配置做了详细的论证
 ```
