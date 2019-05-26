@@ -32,7 +32,7 @@ webpack  or  npm start
 ```
 ## Project Description
 ```
-see [webpack-mk-bundle](https://github.com/xuyancheng/webpack-mk-bundle).  
+See [webpack-mk-bundle](https://github.com/xuyancheng/webpack-mk-bundle).  
 webpack-mk-loader  
 资源库以实例的形式对webpack功能模块化配置做了详细的论证
 ```
